@@ -1,0 +1,66 @@
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\bin\Debug\net8.0\appsettings.json
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\bin\Debug\net8.0\gls-assignment.staticwebassets.runtime.json
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\bin\Debug\net8.0\gls-assignment.exe
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\bin\Debug\net8.0\gls-assignment.deps.json
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\bin\Debug\net8.0\gls-assignment.runtimeconfig.json
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\bin\Debug\net8.0\gls-assignment.dll
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\bin\Debug\net8.0\gls-assignment.pdb
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\obj\Debug\net8.0\gls-assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\obj\Debug\net8.0\gls-assignment.AssemblyInfoInputs.cache
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\obj\Debug\net8.0\gls-assignment.AssemblyInfo.cs
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\obj\Debug\net8.0\gls-assignment.csproj.CoreCompileInputs.cache
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\obj\Debug\net8.0\gls-assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\obj\Debug\net8.0\gls-assignment.RazorAssemblyInfo.cache
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\obj\Debug\net8.0\gls-assignment.RazorAssemblyInfo.cs
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\obj\Debug\net8.0\staticwebassets\msbuild.gls-assignment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\obj\Debug\net8.0\staticwebassets\msbuild.build.gls-assignment.props
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.gls-assignment.props
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.gls-assignment.props
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\obj\Debug\net8.0\scopedcss\bundle\gls-assignment.styles.css
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\obj\Debug\net8.0\scopedcss\projectbundle\gls-assignment.bundle.scp.css
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\obj\Debug\net8.0\gls-assignment.dll
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\obj\Debug\net8.0\refint\gls-assignment.dll
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\obj\Debug\net8.0\gls-assignment.pdb
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\obj\Debug\net8.0\gls-assignment.genruntimeconfig.cache
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\obj\Debug\net8.0\ref\gls-assignment.dll
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\obj\Debug\net8.0\gls-assignment.csproj.AssemblyReference.cache
+C:\Users\kikka\source\repos\gls-assignment\gls-assignment\obj\Debug\net8.0\gls-assi.3EEC28DA.Up2Date
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\bin\Debug\net8.0\appsettings.json
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\bin\Debug\net8.0\gls-assignment.staticwebassets.runtime.json
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\bin\Debug\net8.0\gls-assignment.exe
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\bin\Debug\net8.0\gls-assignment.deps.json
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\bin\Debug\net8.0\gls-assignment.runtimeconfig.json
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\bin\Debug\net8.0\gls-assignment.dll
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\bin\Debug\net8.0\gls-assignment.pdb
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\obj\Debug\net8.0\gls-assignment.csproj.AssemblyReference.cache
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\obj\Debug\net8.0\gls-assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\obj\Debug\net8.0\gls-assignment.AssemblyInfoInputs.cache
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\obj\Debug\net8.0\gls-assignment.AssemblyInfo.cs
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\obj\Debug\net8.0\gls-assignment.csproj.CoreCompileInputs.cache
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\obj\Debug\net8.0\gls-assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\obj\Debug\net8.0\gls-assignment.RazorAssemblyInfo.cache
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\obj\Debug\net8.0\gls-assignment.RazorAssemblyInfo.cs
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\obj\Debug\net8.0\staticwebassets\msbuild.gls-assignment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\obj\Debug\net8.0\staticwebassets\msbuild.build.gls-assignment.props
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.gls-assignment.props
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.gls-assignment.props
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\obj\Debug\net8.0\scopedcss\bundle\gls-assignment.styles.css
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\obj\Debug\net8.0\scopedcss\projectbundle\gls-assignment.bundle.scp.css
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\obj\Debug\net8.0\gls-assi.3EEC28DA.Up2Date
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\obj\Debug\net8.0\gls-assignment.dll
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\obj\Debug\net8.0\refint\gls-assignment.dll
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\obj\Debug\net8.0\gls-assignment.pdb
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\obj\Debug\net8.0\gls-assignment.genruntimeconfig.cache
+C:\Users\kikka\source\repos\gls-assignment - copia\gls-assignment\obj\Debug\net8.0\ref\gls-assignment.dll

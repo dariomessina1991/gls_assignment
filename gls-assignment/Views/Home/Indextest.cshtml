@@ -1,0 +1,82 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2>Benvenuti nella homepage</h2>
+
+<form id="rpc-form">
+    <input type="text" id="parameters" placeholder="id" />
+    <input type="text" id="startdate" placeholder="YYYY-MM-DD" />
+    <input type="text" id="enddate" placeholder="YYYY-MM-DD" />
+    <button type="button" id="execute-btn">Esegui</button>
+</form>
+
+<p id="result"></p>
+
+<script>
+    function isValidDate(dateString) {
+        // Controlla il formato YYYY-MM-DD
+        const regex = /^\d{4}-\d{2}-\d{2}$/;
+
+        // Se il formato non corrisponde, restituisci false
+        if (!dateString.match(regex)) return false;
+
+        // Prova a creare una data con il valore inserito
+        const date = new Date(dateString);
+
+        // Controlla che la data sia valida
+        const timestamp = date.getTime();
+        if (typeof timestamp !== 'number' || Number.isNaN(timestamp)) return false;
+
+        // Controlla che il valore inserito corrisponda a una data valida
+        return date.toISOString().startsWith(dateString);
+    }
+    document.getElementById("execute-btn").addEventListener("click", function () {
+        // Raccogli i valori di input
+        const parameters = document.getElementById("parameters").value;  // Aggiungi questa linea per raccogliere il parametro
+        const startdate = document.getElementById("startdate").value;
+        const enddate = document.getElementById("enddate").value;
+
+        if (!isValidDate(startdate) || !isValidDate(enddate)) {
+            alert("Inserisci una data valida nel formato YYYY-MM-DD");
+            return;
+        }
+
+        // Continua con la tua logica se la data è valida
+        callJsonRpcMethod(parameters, startdate, enddate);
+    });
+
+    async function callJsonRpcMethod(parameters, startdate, enddate) {
+        const requestPayload = {
+            jsonrpc: "2.0",
+            parameters: parseInt(parameters),  // Assicurati che sia convertito in intero
+            startdate: startdate,
+            enddate: enddate,  // Passa anche la nuova enddate
+            id: Math.floor(Math.random() * 1000) // Genera un ID casuale per la richiesta
+        };
+
+        try {
+            const response = await fetch('/Home/JsonRpc', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(requestPayload)
+            });
+
+            if (response.ok) {
+                const jsonResponse = await response.json();
+                if (jsonResponse.error) {
+                    document.getElementById("result").innerText = "Errore: " + jsonResponse.error.message;
+                } else {
+                    const result = jsonResponse.result;
+                    document.getElementById("result").innerText = "Risultato: " + JSON.stringify(result, null, 2);
+                }
+            } else {
+                document.getElementById("result").innerText = "Errore di rete: " + response.statusText;
+            }
+        } catch (error) {
+            document.getElementById("result").innerText = "Errore nella richiesta: " + error.message;
+        }
+    }
+</script>
