@@ -11,7 +11,7 @@ This is a Proof of Concept (POC) web application built using the ASP.NET Core MV
 
 ### 1. Clone the repository:
     
-    git clone https://github.com/your-repository-link.git
+    git clone  https://github.com/dariomessina1991/gls_assignment.git
     
 ### 2. Open the Solution
 
